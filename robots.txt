@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://willsonz.github.io/sitemap.xml 
