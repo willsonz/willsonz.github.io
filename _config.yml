@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://willsonz.github.io
-title: 破房子V1.0
-subtitle: Welcome to funny world!
+url: https://willsonz.github.io
+title: Hi, I'm Wilson
+subtitle: Welcome to The Funny World!
 author: willsonz
 simple_search: https://www.google.com/search
 description:
@@ -17,9 +17,9 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: zw.bingo@gmail.com
 # RSS feeds can list your email address if you like
-email:
+email: zw.bingo@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -50,8 +50,8 @@ titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
-
+#default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+default_asides: [asides/recent_posts.html, asides/gitthub.html, custom/asides/category_list.html]
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
 # blog_index_asides:
