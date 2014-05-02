@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: HWC | 小时候的床底下]]></title>
+  <link href="https://willsonz.github.io/blog/categories/hwc/atom.xml" rel="self"/>
+  <link href="https://willsonz.github.io/"/>
+  <updated>2014-05-02T17:27:33+08:00</updated>
+  <id>https://willsonz.github.io/</id>
+  <author>
+    <name><![CDATA[willsonz]]></name>
+    <email><![CDATA[zw.bingo@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[百字俱乐部]]></title>
+    <link href="https://willsonz.github.io/blog/2014/05/02/bai-zi-ju-le-bu/"/>
+    <updated>2014-05-02T11:33:59+08:00</updated>
+    <id>https://willsonz.github.io/blog/2014/05/02/bai-zi-ju-le-bu</id>
+    <content type="html"><![CDATA[<p>The Hundred Words Club</p>
+
+<!--more-->
+
+
+<p>要求：百字上下的短文(不包括任何标点及无意义的文字)</p>
+
+<p>目的：锻炼自己的行文能力</p>
+]]></content>
+  </entry>
+  
+</feed>
